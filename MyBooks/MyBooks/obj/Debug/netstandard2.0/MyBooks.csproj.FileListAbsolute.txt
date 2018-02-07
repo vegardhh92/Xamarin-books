@@ -1,0 +1,12 @@
+E:\Dokumenter\Skole\V2018\DAT153\VisualStudioProjects\MyBooks\MyBooks\MyBooks\bin\Debug\netstandard2.0\MyBooks.deps.json
+E:\Dokumenter\Skole\V2018\DAT153\VisualStudioProjects\MyBooks\MyBooks\MyBooks\bin\Debug\netstandard2.0\MyBooks.dll
+E:\Dokumenter\Skole\V2018\DAT153\VisualStudioProjects\MyBooks\MyBooks\MyBooks\bin\Debug\netstandard2.0\MyBooks.pdb
+E:\Dokumenter\Skole\V2018\DAT153\VisualStudioProjects\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MyBooks.csproj.CoreCompileInputs.cache
+E:\Dokumenter\Skole\V2018\DAT153\VisualStudioProjects\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MyBooks.App.xaml.g.cs
+E:\Dokumenter\Skole\V2018\DAT153\VisualStudioProjects\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MyBooks.MainPage.xaml.g.cs
+E:\Dokumenter\Skole\V2018\DAT153\VisualStudioProjects\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MyBooks.NewBookPage.xaml.g.cs
+E:\Dokumenter\Skole\V2018\DAT153\VisualStudioProjects\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MyBooks.AssemblyInfoInputs.cache
+E:\Dokumenter\Skole\V2018\DAT153\VisualStudioProjects\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MyBooks.AssemblyInfo.cs
+E:\Dokumenter\Skole\V2018\DAT153\VisualStudioProjects\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MyBooks.dll
+E:\Dokumenter\Skole\V2018\DAT153\VisualStudioProjects\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MyBooks.pdb
+E:\Dokumenter\Skole\V2018\DAT153\VisualStudioProjects\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MyBooks.csprojResolveAssemblyReference.cache
